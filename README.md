@@ -93,9 +93,3 @@ Handles user interaction using a menu-driven interface.
 The Emergency Evacuation System demonstrates the practical application of graph algorithms in real-world safety systems. It efficiently computes optimal evacuation routes while adapting to dynamic hazards such as blocked or unsafe paths. This project strengthens understanding of graph theory and algorithm design in real-world problem solving.
 
 ---
-
-## 👨‍💻 Developed By
-
-Name: ____________  
-Department: ____________  
-College: ____________
